@@ -21,7 +21,9 @@ Books and Articles
 
 -White, Ron and Timothy Edward Downs. How Computers Work. 10th Edition. How It Works Series. Indianapolis, IN: Que, 2014.
 
-Web resources:
+------------
+Web Resources
+------------
 
 -Gough Lui’s Project KryoFlux blog series: http://goughlui.com/2013/04/21/project-kryoflux-part-1-the-board-and-associated-hardware/_.
 
